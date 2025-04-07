@@ -1,0 +1,16 @@
+{
+  "name": "finai-tracker",
+  "version": "1.0.0",
+  "description": "Smart financial management application for students",
+  "main": "js/main.js",
+  "scripts": {
+    "start": "serve",
+    "build": "echo 'No build step required for static site'"
+  },
+  "dependencies": {
+    "serve": "^14.2.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
